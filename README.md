@@ -1,6 +1,6 @@
 # NotebookLM
 
-### Criação de um caderno temático introdutório de educação financeira
+### Desenvolvimento de um caderno temático introdutório à educação financeira
 
 Este desafio consiste em criar no NotebookLM um caderno temático de algum assunto financeiro. O tema escolhido foi a caderneta de poupança. Os textos analisam a caderneta de poupança como o investimento mais tradicional do Brasil, destacando sua simplicidade, isenção fiscal e alta liquidez. Apesar de sua popularidade, as fontes apontam uma baixa rentabilidade em comparação a alternativas de renda fixa, como o Tesouro Selic e os CDBs, que frequentemente oferecem retornos superiores. A segurança é um ponto central, mencionando o suporte do Fundo Garantidor de Crédito (FGC) e proteções judiciais específicas para depósitos em poupança. Pesquisas recentes indicam uma mudança comportamental, especialmente entre os jovens, que estão migrando para opções mais rentáveis e diversificadas. O conteúdo serve como um guia para comparar ganhos reais, explicando como as variações da taxa Selic impactam diretamente o rendimento dessas aplicações. No geral, as fontes questionam se a conveniência da poupança ainda justifica seu uso frente a novos produtos financeiros mais eficientes.
 
